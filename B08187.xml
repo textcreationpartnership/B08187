@@ -1,0 +1,545 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New and singular patternes &amp; workes of linnen. Seruing for paternes to make all sortes of lace, edginges, and cut-workes. : Newly inuented for the profite &amp; contentment of ladies, gentlewomen, &amp; others, that are desirous of this arte..</title>
+            <author>Vinciolo, Federico de, fl. 1587-1599.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1591</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 61 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08187</idno>
+            <idno type="STC">STC 24765.3</idno>
+            <idno type="STC">ESTC S125701</idno>
+            <idno type="EEBO-CITATION">71305208</idno>
+            <idno type="OCLC">ocm 71305208</idno>
+            <idno type="VID">183931</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08187)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2212:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New and singular patternes &amp; workes of linnen. Seruing for paternes to make all sortes of lace, edginges, and cut-workes. : Newly inuented for the profite &amp; contentment of ladies, gentlewomen, &amp; others, that are desirous of this arte..</title>
+                  <author>Vinciolo, Federico de, fl. 1587-1599.</author>
+               </titleStmt>
+               <extent>[6] p., 60 leaves of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Jmprinted by J. Wolfe and Ed. White.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1591..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author's name from STC (2nd ed.).</note>
+                  <note>Printer's device on t.p. (McK. 216); ornamental border made up from separate head-and tail-pieces and male and female figures flanking the title; initials, text head- and tail-pieces.</note>
+                  <note>Second part has title page with variant imprint: London Jmprinted by John Wolfe. 1591.</note>
+                  <note>Imperfect: signature H lacking.</note>
+                  <note>Signatures: A(-A₁)-Q⁴.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lace and lace making --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:183931:1"/>
+                  <pb facs="tcp:183931:1" rendition="simple:additions"/>
+                  <p> New and Singular Patternes &amp; workes of Linnen.</p>
+                  <p>
+                     <hi>Seruing for Paternes to make all ſortes of Lace, Edginges, and Cut-workes.</hi>
+                  </p>
+                  <p>Newly inuented for the profite &amp; con<g ref="char:EOLhyphen"/>tentment of Ladies, Gentilwomen, &amp; others, that are deſirous of this Arte.</p>
+                  <p>LONDON <hi>Imprinted by I. Wolfe and Ed. White.</hi> 1591.</p>
+                  <figure>
+                     <figDesc>decorative border including headpiece, tailpiece and flanking figures</figDesc>
+                  </figure>
+                  <pb facs="tcp:183931:2"/>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:183931:2" rendition="simple:additions"/>
+                  <head>To the righte vvor<g ref="char:EOLhyphen"/>ſhipfull Gentlewoman Miſtres <hi>Su<g ref="char:EOLhyphen"/>ſan Saltonſtall,</hi> wife to the right wor<g ref="char:EOLhyphen"/>ſhipfull, M. Richarde Saltonſtall, <hi>Alderman of the Citty of London.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">I</seg>T beeing my chance (right Wor<g ref="char:EOLhyphen"/>ſhipfull) to lighten vpon certaine paternes of cutworks, and others brought out of forrein countries, which haue bin greatly accepted of by diuers Ladies and Gentle<g ref="char:EOLhyphen"/>women of ſundrie nations, and conſequentlie of the common-people: this ſeemed vnto mee a ſufficient inſtance and Argument, to be<g ref="char:EOLhyphen"/>ſtowe likewiſe ſome paines for the publiſhing there<g ref="char:EOLhyphen"/>of. But beeing in ſuſpence of the dedication: two cauſes induced me to imbolden my ſelfe to preſent it vnto your acceptation and patronage. Firſt, becauſe that rare deuiſes and inuentions are for the moſt part more agreeable and gratfuller accepted, then ordina<g ref="char:EOLhyphen"/>rie and common thinges, although of great price and value. Secondlie, becauſe theſe workes belong chiefly to Gentlewomen, for to paſſe away their time in ver<g ref="char:EOLhyphen"/>tuous exerciſes. Wherefore to fit and accomodate the dedication aright to the contentes and ſubiect of the booke, I thought it not amiſſe to offer it vnto your Worſhip, in token of thankfulnes for ſo many bene<g ref="char:EOLhyphen"/>fites
+<pb facs="tcp:183931:3"/> 
+                     <hi>which I haue receiued ſo bountifullie at your hands, aſſuring my ſelfe moreouer, that as theſe pa<g ref="char:EOLhyphen"/>terns will bring ſufficient contentment and profite to all welwillers that are deſirous of this art, ſo they ſhall for euer acknowledge the<g ref="char:cmbAbbrStroke">̄</g>ſelues to be beholden chiefly vnto you, being the chiefeſt occaſion of the publiſhing and ſetting forth thereof. And therefore vppon hope that you wil take theſe inuentions in good part, which in time I am purpoſed (if God permit) to increaſe and augment with more new paternes of workes: In the meane time I pray God giue to your Worſhip, a hap<g ref="char:EOLhyphen"/>pie, proſperous, and a long life, with a full accom<g ref="char:EOLhyphen"/>pliſhment of all your ver<g ref="char:EOLhyphen"/>tuous deſires.</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Worſhips moſt dutifull ſer<g ref="char:EOLhyphen"/>uant and Kinſeman, <hi>Adrian Poyntz<g ref="char:punc">▪</g>
+                        </hi>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:183931:3" rendition="simple:additions"/>
+                  <head>The Epiſtle to the Reader.</head>
+                  <p>
+                     <seg rend="decorInit">H</seg>Auing framed a body of the beſt &amp; rareſt ma<g ref="char:EOLhyphen"/>ner in true perfection, of ſundrie ſortes of de<g ref="char:EOLhyphen"/>uiſes or workes, aſwell for frame workes, as o<g ref="char:EOLhyphen"/>ther Needle workes: I deuiſed with all dilligence and induſtruous ſtudie to ſatiſfy the gentle mindes of virtuous women, by bringing to light thinges neuer before as yet ſeene, nor commit<g ref="char:EOLhyphen"/>ted to print: All which deuiſes are ſo framed in due proportion, as taking the<g ref="char:cmbAbbrStroke">̄</g> in order, the one is formed or made by the other, &amp; ſo proceedeth forward, whereby with more eaſe they may bee ſewed &amp; wrought in cloth, and keping true accompt of the threads, maintaine the bewty of the worke. And more, who deſyreth to bring the worke into a
+<pb facs="tcp:183931:4"/> leſſer form, let them make the ſquares leſſe, and if greater, then enlarge them, and ſo may you worke in diuers ſortes either by ſtitch, pouncing or pouldering vpon the ſame as you pleaſe. Alſo it is to be vnderſtood, that theſe ſquares ſerue not onely for cut workes, but alſo for all other manner of ſewing or ſtit<g ref="char:EOLhyphen"/>ching: noting withall, that they are made to keepe the worke or deuiſe in good order, and euen proportion. And if yee will that the ſquares be greater, make of two one, and of foure two, and ſo they will be larger: And in this maner may you proceed in all.</p>
+                  <closer>
+                     <salute>God proſper your deſires.</salute>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="pattern_book">
+                  <pb n="1" facs="tcp:183931:4" rendition="simple:additions"/>
+                  <p>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                  </p>
+                  <pb facs="tcp:183931:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:183931:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:183931:6"/>
+                  <pb n="2" facs="tcp:183931:6"/>
+                  <p>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:7"/>
+                     <pb n="3" facs="tcp:183931:7"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:8"/>
+                     <pb n="4" facs="tcp:183931:8"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:9"/>
+                     <pb n="5" facs="tcp:183931:9"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:10"/>
+                     <pb n="6" facs="tcp:183931:10"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:11"/>
+                     <pb n="7" facs="tcp:183931:11"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:12"/>
+                     <pb n="8" facs="tcp:183931:12"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:13"/>
+                     <pb n="9" facs="tcp:183931:13"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:14"/>
+                     <pb n="10" facs="tcp:183931:14"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:15"/>
+                     <pb n="11" facs="tcp:183931:15"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:16"/>
+                     <pb n="12" facs="tcp:183931:16"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:17"/>
+                     <pb n="13" facs="tcp:183931:17"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:18"/>
+                     <pb n="14" facs="tcp:183931:18"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:19"/>
+                     <pb n="15" facs="tcp:183931:19"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:20"/>
+                     <pb n="16" facs="tcp:183931:20"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:21"/>
+                     <pb n="17" facs="tcp:183931:21"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:22"/>
+                     <pb n="18" facs="tcp:183931:22"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:23"/>
+                     <pb n="19" facs="tcp:183931:23"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:24"/>
+                     <pb n="20" facs="tcp:183931:24"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:25"/>
+                     <pb n="21" facs="tcp:183931:25"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:26"/>
+                     <pb n="22" facs="tcp:183931:26"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:27"/>
+                     <pb n="23" facs="tcp:183931:27"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:28"/>
+                     <pb n="24" facs="tcp:183931:28"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:29"/>
+                     <pb n="29" facs="tcp:183931:29"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-workes edged.</head>
+                     </figure>
+                     <pb facs="tcp:183931:30"/>
+                     <pb n="30" facs="tcp:183931:30"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:31"/>
+                     <pb n="31" facs="tcp:183931:31"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:32"/>
+                     <pb n="32" facs="tcp:183931:32"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:33"/>
+                     <pb n="33" facs="tcp:183931:33"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:34"/>
+                     <pb n="34" facs="tcp:183931:34"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:35"/>
+                     <pb n="35" facs="tcp:183931:35"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                     <pb facs="tcp:183931:36"/>
+                     <pb n="36" facs="tcp:183931:36"/>
+                     <figure>
+                        <figDesc>needlework pattern</figDesc>
+                        <head>French cut-works</head>
+                     </figure>
+                  </p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:183931:37"/>
+                  <pb facs="tcp:183931:37" rendition="simple:additions"/>
+                  <p> New and Singular Patternes &amp; workes of Linnen.</p>
+                  <p>
+                     <hi>Wherein are repreſented vnto vs the ſeauen Planets, and many other Figures ſeruing for Pat<g ref="char:EOLunhyphen"/>ternes to make diuers ſortes of Lace.</hi>
+                  </p>
+                  <p>Newly inuented for the profite &amp; con<g ref="char:EOLhyphen"/>tentment of Ladies, Gentilwomen, &amp; others, that are deſirous of thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Arte.</p>
+                  <p>
+                     <hi>LONDON</hi> Imprinted by Iohn Wolfe. 1591.</p>
+                  <figure>
+                     <figDesc>decorative border including headpiece, tailpiece, and flanking figures</figDesc>
+                  </figure>
+                  <pb facs="tcp:183931:38"/>
+               </div>
+            </front>
+            <body>
+               <div type="pattern_book">
+                  <div type="part">
+                     <pb n="38" facs="tcp:183931:38" rendition="simple:additions"/>
+                     <p>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:39"/>
+                        <pb n="39" facs="tcp:183931:39" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:40"/>
+                        <pb n="40" facs="tcp:183931:40" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:41"/>
+                        <pb n="41" facs="tcp:183931:41" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:42"/>
+                        <pb n="42" facs="tcp:183931:42" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:43"/>
+                        <pb n="43" facs="tcp:183931:43" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:44"/>
+                        <pb n="44" facs="tcp:183931:44" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:45"/>
+                        <pb n="45" facs="tcp:183931:45"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:46"/>
+                        <pb n="46" facs="tcp:183931:46"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:47"/>
+                        <pb n="47" facs="tcp:183931:47" rendition="simple:additions"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:48"/>
+                        <pb n="48" facs="tcp:183931:48"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Forreſt or net workes.</head>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:183931:49"/>
+                  </div>
+                  <div type="part">
+                     <pb n="49" facs="tcp:183931:49"/>
+                     <p>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:50"/>
+                        <pb n="50" facs="tcp:183931:50"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:51"/>
+                        <pb n="51" facs="tcp:183931:51"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:52"/>
+                        <pb n="52" facs="tcp:183931:52"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:53"/>
+                        <pb n="53" facs="tcp:183931:53"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:54"/>
+                        <pb n="54" facs="tcp:183931:54"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single cut-workes.</head>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:183931:55"/>
+                     <pb n="55" facs="tcp:183931:55"/>
+                     <p>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single purled cut-workes.</head>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:183931:56"/>
+                  </div>
+                  <div type="part">
+                     <pb n="56" facs="tcp:183931:56"/>
+                     <p>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Single and dubble cut-workes.</head>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:183931:57"/>
+                  </div>
+                  <div type="part">
+                     <pb n="57" facs="tcp:183931:57"/>
+                     <p>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Duble cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:58"/>
+                        <pb n="58" facs="tcp:183931:58"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Duble cut-workes.</head>
+                        </figure>
+                        <pb facs="tcp:183931:59"/>
+                        <pb n="59" facs="tcp:183931:59"/>
+                        <figure>
+                           <figDesc>needlework pattern</figDesc>
+                           <head>Duble cut-workes.</head>
+                        </figure>
+                     </p>
+                     <pb facs="tcp:183931:60"/>
+                     <pb facs="tcp:183931:60" rendition="simple:additions"/>
+                     <pb facs="tcp:183931:61" rendition="simple:additions"/>
+                     <pb facs="tcp:183931:61"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
